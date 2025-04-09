@@ -59,5 +59,5 @@ The model weights are saved to `model_weights.pth`. You can modify the script to
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your features or enhancements.
 
 ## License
-Specify your license or state that the project is licensed under the MIT License.
+ MIT License.
 
